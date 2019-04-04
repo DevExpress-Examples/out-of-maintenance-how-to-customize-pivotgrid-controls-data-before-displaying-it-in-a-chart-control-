@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/DXPivotGrid_CustomizeChartData/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_CustomizeChartData/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/DXPivotGrid_CustomizeChartData/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXPivotGrid_CustomizeChartData/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXPivotGrid_CustomizeChartData/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_CustomizeChartData/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to customize PivotGrid control's data before displaying it in a Chart Control
 
